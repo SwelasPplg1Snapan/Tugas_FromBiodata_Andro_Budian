@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reina aplikasi</string>
+    <string-array name="agama_array">
+        <item>Islam</item>
+        <item>Kristen Protestan</item>
+        <item>Kristen Katolik</item>
+        <item>Hindu</item>
+        <item>Buddha</item>
+        <item>Khonghucu</item>
+    </string-array>
+</resources>
