@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">FormBiodata</string>
+
+    <!-- Tombol -->
+    <string name="simpan">Simpan</string>
+    <string name="simpan_biodata">Simpan Biodata</string>
+
+    <!-- Label -->
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="alamat">Alamat</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="laki_laki">Laki-laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="belum_dipilih">Belum dipilih</string>
+    <string name="agama">Agama</string>
+
+    <!-- Format tanggal -->
+    <string name="day_month_year">%1$d/%2$d/%3$d</string>
+
+    <!-- Format hasil biodata -->
+    <string name="nama_alamat_tanggal_gender_agama">
+        Nama: %1$s&#10;Alamat: %2$s&#10;Tanggal Lahir: %3$s&#10;Jenis Kelamin: %4$s&#10;Agama: %5$s
+    </string>
+
+    <!-- Array untuk Spinner Agama -->
+    <string-array name="agama_array">
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Katolik</item>
+        <item>Hindu</item>
+        <item>Buddha</item>
+        <item>Konghucu</item>
+    </string-array>
+</resources>
